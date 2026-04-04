@@ -26,7 +26,7 @@ localparam V_VISIBLE = 480;
 localparam V_FP      = 10;
 localparam V_SYNC    = 2;
 localparam V_BP      = 33;
-localparam V_TOTAL   = 630;//525;
+localparam V_TOTAL   = 525;
 
 reg [1:0] clockDivider;
 
