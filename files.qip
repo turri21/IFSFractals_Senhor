@@ -1,0 +1,3 @@
+set_global_assignment -name SYSTEMVERILOG_FILE rtl/Ferns.v
+set_global_assignment -name SDC_FILE Ferns.sdc
+set_global_assignment -name SYSTEMVERILOG_FILE Ferns.sv
