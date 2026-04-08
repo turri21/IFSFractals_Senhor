@@ -1,3 +1,7 @@
+-=(IFS Fractals_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+___
 # MiSTer IFS Fractals
 
 ### Intro
